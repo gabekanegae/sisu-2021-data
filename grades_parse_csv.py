@@ -69,7 +69,6 @@ modNomeReduzido = {
 "com deficiência que cursaram todo o ensino médio em escola pública.": "PCD",
 "que comprovem serem pessoas com deficiência": "PCD",
 "Reserva de vagas para candidatos com deficiência (PCD)": "PCD",
-"com deficiência auditiva especificamente no curso de Letras-Libras": "PCD",
 "Ação Afirmativa 2: 10% (dez por cento) para pessoas com deficiências que tenham cursado integralmente o Ensino Médio em escolas da rede pública de ensino, com renda per capita de até um salário-mínimo e meio (1,5).": "PCD",
 "Candidatos com deficiência que concluíram o Ensino Médio, independente do percurso de formação;": "PCD",
 "- 5% das vagas destinadas a candidatos com deficiência com execeção das vagas do SISU.": "PCD",
@@ -184,7 +183,7 @@ class Curso:
         return "\n".join(s+mods)
 
 directory = "data"
-filename = input("Filename (without extension): /{}/".format(directory))
+filename = input("Filename (without extension): /{}/".format(directory)).strip()
 
 t0 = time()
 

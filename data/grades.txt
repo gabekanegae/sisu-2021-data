@@ -743,6 +743,8 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=400.00, H
 		Vagas: 2 | Nota de Corte: 535.82
 	PPI + EP:
 		Vagas: 7 | Nota de Corte: 528.51
+	com deficiência auditiva especificamente no curso de Letras-Libras:
+		Vagas: 5 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	PPI + PCD + EP:
@@ -753,8 +755,6 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=400.00, H
 		Vagas: 1 | Nota de Corte: .00
 	PCD:
 		Vagas: 2 | Nota de Corte: .00
-	PCD:
-		Vagas: 5 | Nota de Corte: .00
 
 LETRAS - LÍNGUA PORTUGUESA, Licenciatura, Vespertino
 Total de Vagas: 50
