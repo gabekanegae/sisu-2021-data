@@ -2,15 +2,15 @@
 
 ## Arquivos .csv
 
-**[Lista de Cursos](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2021-data/master/all_courses.csv)**
+**[Lista de Cursos](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2021-data/main/all_courses.csv)**
 
-**Final: [16/04](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2021-data/master/data/grades.csv) | [Lista de Aprovados](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2021-data/master/data/names.csv)**
+**Final: [16/04](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2021-data/main/data/grades.csv) | [Lista de Aprovados](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2021-data/main/data/names.csv)**
 
 **[Arquivos "baixar lista de selecionados da instituição"](get_csv)**
 
 ## Arquivos .txt
 
-**Final: [16/04](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2021-data/master/data/grades.txt) | [Lista de Aprovados](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2021-data/master/data/names.txt) | [Ranking Geral de Aprovados](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2021-data/master/data/names_ranking.txt)**
+**Final: [16/04](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2021-data/main/data/grades.txt) | [Lista de Aprovados](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2021-data/main/data/names.txt) | [Ranking Geral de Aprovados](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2021-data/main/data/names_ranking.txt)**
 
 ## Observações
 
