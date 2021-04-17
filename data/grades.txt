@@ -42732,7 +42732,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=1.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 6 | Nota de Corte: 569.62
 	RENDA + EP:
 		Vagas: 1 | Nota de Corte: 563.36
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 509.41
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 467.00
@@ -42752,7 +42752,7 @@ Pesos: NAT=1.50, HUM=2.50, LIN=2.00, MAT=1.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: 576.11
 	PPI + EP:
 		Vagas: 5 | Nota de Corte: 568.45
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 507.41
 
 CIÊNCIAS SOCIAIS, Licenciatura, Noturno
@@ -42770,7 +42770,7 @@ Pesos: NAT=1.50, HUM=2.50, LIN=2.00, MAT=1.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 574.64
 	EP:
 		Vagas: 1 | Nota de Corte: 566.67
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 482.26
 
 DIREITO, Bacharelado, Integral
@@ -42788,7 +42788,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 7 | Nota de Corte: 684.28
 	PPI + RENDA + EP:
 		Vagas: 7 | Nota de Corte: 682.78
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 641.72
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 638.08
@@ -42810,7 +42810,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=1.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 4 | Nota de Corte: 585.57
 	PPI + RENDA + EP:
 		Vagas: 4 | Nota de Corte: 557.31
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 492.69
 
 FÍSICA, Licenciatura, Vespertino
@@ -42828,7 +42828,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=1.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 4 | Nota de Corte: 580.39
 	PPI + EP:
 		Vagas: 4 | Nota de Corte: 575.66
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
 
 GEOGRAFIA, Bacharelado, Matutino
@@ -42848,7 +42848,7 @@ Pesos: NAT=1.50, HUM=2.50, LIN=2.00, MAT=1.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 7 | Nota de Corte: 554.17
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 516.72
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 466.02
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -42870,7 +42870,7 @@ Pesos: NAT=1.50, HUM=2.50, LIN=2.00, MAT=1.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 7 | Nota de Corte: 564.31
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 480.22
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 417.14
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: 405.56
@@ -42892,7 +42892,7 @@ Pesos: NAT=1.50, HUM=2.50, LIN=2.00, MAT=1.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 595.33
 	PPI + RENDA + EP:
 		Vagas: 7 | Nota de Corte: 592.93
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 512.81
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: 460.23
@@ -42912,7 +42912,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 6 | Nota de Corte: 657.34
 	PPI + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 657.24
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 616.18
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 564.46
@@ -42934,10 +42934,10 @@ Pesos: NAT=2.50, HUM=1.50, LIN=1.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 7 | Nota de Corte: 562.78
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 454.07
-	Pessoa com Deficiência.:
-		Vagas: 2 | Nota de Corte: .00
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: .00
+	PCD:
+		Vagas: 2 | Nota de Corte: .00
 
 ==================================================
 UNIVERSIDADE FEDERAL DO SUL E SUDESTE DO PARÁ (UNIFESSPA) - CAMPUS DE MARABÁ - UNIDADE II, Marabá, PA
@@ -42959,7 +42959,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=1.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 6 | Nota de Corte: 638.77
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 599.36
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 554.90
 
 ENGENHARIA DE COMPUTAÇÃO, Bacharelado, Integral
@@ -42979,7 +42979,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=1.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 6 | Nota de Corte: 628.63
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 535.44
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 489.42
 
 ENGENHARIA DE MATERIAIS, Bacharelado, Integral
@@ -42997,7 +42997,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=1.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 6 | Nota de Corte: 602.65
 	PPI + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 584.61
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 425.00
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -43019,7 +43019,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=1.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 6 | Nota de Corte: 591.65
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 508.57
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 493.13
 
 ENGENHARIA ELÉTRICA, Bacharelado, Integral
@@ -43039,7 +43039,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=1.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 6 | Nota de Corte: 623.81
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 513.91
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 504.75
 
 ENGENHARIA MECÂNICA, Bacharelado, Integral
@@ -43057,7 +43057,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=1.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 6 | Nota de Corte: 636.56
 	PPI + EP:
 		Vagas: 6 | Nota de Corte: 632.70
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 514.92
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 503.20
@@ -43077,7 +43077,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=1.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 6 | Nota de Corte: 624.00
 	PPI + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 605.14
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 533.90
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 445.82
@@ -43097,7 +43097,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=1.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 6 | Nota de Corte: 577.41
 	RENDA + EP:
 		Vagas: 1 | Nota de Corte: 523.93
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 484.01
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 480.86
@@ -43121,7 +43121,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=1.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: 479.04
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: 478.48
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 466.66
 
 SISTEMA DE INFORMAÇÃO, Bacharelado, Integral
@@ -43139,7 +43139,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=1.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 7 | Nota de Corte: 593.33
 	PPI + RENDA + EP:
 		Vagas: 7 | Nota de Corte: 586.55
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 553.51
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 494.70
@@ -43168,7 +43168,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=1.50, MAT=2.50, RED=2.00 | Mínimo: NAT=1.00, HUM
 		Vagas: 1 | Nota de Corte: 512.73
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 501.31
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 499.37
 
 ARTES VISUAIS, Licenciatura, Vespertino
@@ -43188,7 +43188,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 6 | Nota de Corte: 563.38
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 464.88
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 458.56
 
 CIÊNCIAS BIOLÓGICAS, Bacharelado, Integral
@@ -43208,7 +43208,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 6 | Nota de Corte: 596.08
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 588.12
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 489.38
 
 CIÊNCIAS ECONÔMICAS, Bacharelado, Integral
@@ -43228,7 +43228,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 6 | Nota de Corte: 586.64
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 558.34
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
 
 HISTÓRIA, Licenciatura, Matutino
@@ -43248,7 +43248,7 @@ Pesos: NAT=1.50, HUM=2.50, LIN=2.00, MAT=1.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 7 | Nota de Corte: 595.44
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: 507.61
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 496.20
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -43270,7 +43270,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 7 | Nota de Corte: 560.42
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 508.66
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 473.64
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -43290,7 +43290,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 7 | Nota de Corte: 584.14
 	PPI + EP:
 		Vagas: 7 | Nota de Corte: 571.74
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 547.06
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: 472.36
@@ -43312,7 +43312,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: 577.72
 	EP:
 		Vagas: 1 | Nota de Corte: 542.94
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 475.80
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -43337,7 +43337,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 7 | Nota de Corte: 568.54
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 551.16
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 521.36
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: 490.44
@@ -43361,7 +43361,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: 523.36
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 479.40
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 455.98
 
 JORNALISMO, Bacharelado, Integral
@@ -43381,7 +43381,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 598.54
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: 528.10
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 463.98
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 458.28
@@ -43408,7 +43408,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=1.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: 578.03
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 467.08
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
 
 ==================================================
@@ -43429,7 +43429,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=1.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 6 | Nota de Corte: 625.00
 	PPI + EP:
 		Vagas: 6 | Nota de Corte: 613.09
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 471.28
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 466.74
@@ -43449,7 +43449,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=1.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 7 | Nota de Corte: 551.22
 	PPI + RENDA + EP:
 		Vagas: 7 | Nota de Corte: 548.19
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 444.77
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 441.69
@@ -43476,10 +43476,10 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 551.98
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 550.00
-	Pessoa com Deficiência.:
-		Vagas: 2 | Nota de Corte: .00
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: .00
+	PCD:
+		Vagas: 2 | Nota de Corte: .00
 
 ENGENHARIA FLORESTAL, Bacharelado, Integral
 Total de Vagas: 40
@@ -43498,7 +43498,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=1.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 7 | Nota de Corte: 564.20
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 530.94
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 476.02
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: 451.85
@@ -43520,7 +43520,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 7 | Nota de Corte: 540.02
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 486.72
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 460.08
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -43543,7 +43543,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 7 | Nota de Corte: 554.82
 	PPI + EP:
 		Vagas: 7 | Nota de Corte: 544.96
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 431.06
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -43569,7 +43569,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: 509.76
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: 488.30
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
 
 MEDICINA VETERINÁRIA, Bacharelado, Integral
@@ -43589,7 +43589,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 6 | Nota de Corte: 632.22
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 597.66
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 533.70
 
 ZOOTECNIA, Bacharelado, Integral
@@ -43607,7 +43607,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=1.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: 573.11
 	PPI + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 557.48
-	Pessoa com Deficiência.:
+	PCD:
 		Vagas: 2 | Nota de Corte: 490.11
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -44442,7 +44442,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 537.16
 	RENDA + EP:
 		Vagas: 4 | Nota de Corte: 536.73
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 531.34
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: 456.50
@@ -44462,7 +44462,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 594.23
 	PPI + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 587.08
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 576.73
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 471.66
@@ -44485,7 +44485,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 598.56
 	PPI + EP:
 		Vagas: 5 | Nota de Corte: 596.77
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 580.31
 
 ENGENHARIA CIVIL, Bacharelado, Integral
@@ -44501,7 +44501,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 640.74
 	PPI + EP:
 		Vagas: 5 | Nota de Corte: 624.62
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 529.99
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -44521,7 +44521,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 598.76
 	EP:
 		Vagas: 4 | Nota de Corte: 593.36
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 442.04
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -44541,7 +44541,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 565.13
 	RENDA + EP:
 		Vagas: 4 | Nota de Corte: 557.22
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 479.21
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -44564,7 +44564,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 547.97
 	PPI + EP:
 		Vagas: 5 | Nota de Corte: 530.60
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 495.86
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 441.89
@@ -44586,7 +44586,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: 624.38
 	PPI + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 607.58
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 530.19
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 514.42
@@ -44604,7 +44604,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 514.78
 	RENDA + EP:
 		Vagas: 4 | Nota de Corte: 513.18
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 493.34
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 387.60
@@ -44624,7 +44624,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 571.81
 	PPI + RENDA + EP:
 		Vagas: 7 | Nota de Corte: 569.04
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 511.08
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 507.28
@@ -44644,7 +44644,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 526.96
 	PPI + EP:
 		Vagas: 5 | Nota de Corte: 513.58
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 377.71
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -44664,7 +44664,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 4 | Nota de Corte: 545.13
 	PPI + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 542.33
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 448.76
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 379.44
@@ -44689,7 +44689,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 548.98
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 483.94
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 459.36
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -44707,7 +44707,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 4 | Nota de Corte: 536.59
 	PPI + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 531.54
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 495.37
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 478.89
@@ -44730,7 +44730,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 590.39
 	PPI + EP:
 		Vagas: 5 | Nota de Corte: 584.97
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 557.89
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 530.51
@@ -44750,7 +44750,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 600.66
 	PPI + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 588.72
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 565.87
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 506.16
@@ -44770,7 +44770,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 580.01
 	RENDA + EP:
 		Vagas: 3 | Nota de Corte: 566.16
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 459.07
 
 DESIGN DE INTERIORES, Tecnológico, Matutino
@@ -44786,7 +44786,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 597.79
 	PPI + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 591.73
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 541.11
 
 ENGENHARIA CIVIL, Bacharelado, Integral
@@ -44802,7 +44802,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 611.44
 	PPI + EP:
 		Vagas: 5 | Nota de Corte: 606.50
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 576.97
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 471.84
@@ -44822,7 +44822,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 4 | Nota de Corte: 610.53
 	PPI + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 593.57
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 531.73
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 395.03
@@ -44842,7 +44842,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 589.06
 	PPI + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 587.72
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 554.87
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 438.90
@@ -44862,7 +44862,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 4 | Nota de Corte: 539.90
 	PPI + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 538.13
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 491.17
 
 GESTÃO AMBIENTAL, Tecnológico, Matutino
@@ -44878,7 +44878,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 555.12
 	PPI + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 550.68
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 445.52
 
 LETRAS - LÍNGUA PORTUGUESA, Licenciatura, EaD
@@ -44890,7 +44890,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 24 | Nota de Corte: 611.64
 	RENDA + EP:
 		Vagas: 5 | Nota de Corte: 594.70
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 587.79
 	PPI + RENDA + EP:
 		Vagas: 7 | Nota de Corte: 587.69
@@ -44916,7 +44916,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 4 | Nota de Corte: 531.77
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 494.89
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 430.56
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -44934,7 +44934,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 3 | Nota de Corte: 578.80
 	PPI + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 566.49
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 528.63
 
 QUÍMICA, Licenciatura, Vespertino
@@ -44950,7 +44950,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 536.29
 	PPI + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 521.73
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 429.52
 
 REDES DE COMPUTADORES, Tecnológico, Matutino
@@ -44966,7 +44966,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 581.93
 	EP:
 		Vagas: 4 | Nota de Corte: 580.04
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 564.69
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 427.38
@@ -44990,7 +44990,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: 511.03
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 439.48
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 425.01
 
 SISTEMAS PARA INTERNET, Tecnológico, Vespertino
@@ -45006,7 +45006,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 604.04
 	PPI + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 595.66
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 526.76
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 429.69
@@ -45031,7 +45031,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 515.83
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 481.27
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 457.28
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: 395.70
@@ -45049,7 +45049,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 510.92
 	EP:
 		Vagas: 4 | Nota de Corte: 507.13
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 396.66
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: 392.57
@@ -45064,7 +45064,7 @@ Total de Vagas: 40
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
 	AC:
 		Vagas: 19 | Nota de Corte: 644.38
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 642.71
 	RENDA + EP:
 		Vagas: 4 | Nota de Corte: 641.79
@@ -45094,7 +45094,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 540.80
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 501.40
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 447.74
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: 443.64
@@ -45115,11 +45115,11 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 4 | Nota de Corte: 486.59
 	EP:
 		Vagas: 4 | Nota de Corte: 486.43
-	Pessoas com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 LETRAS - LÍNGUA PORTUGUESA, Licenciatura, EaD
@@ -45135,7 +45135,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 7 | Nota de Corte: 544.93
 	RENDA + EP:
 		Vagas: 5 | Nota de Corte: 536.38
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 519.48
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 464.10
@@ -45158,11 +45158,11 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 4 | Nota de Corte: 521.88
 	PPI + EP:
 		Vagas: 5 | Nota de Corte: 520.51
-	Pessoas com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 GESTÃO AMBIENTAL, Tecnológico, Integral
@@ -45178,11 +45178,11 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 4 | Nota de Corte: 491.56
 	PPI + EP:
 		Vagas: 5 | Nota de Corte: 482.52
-	Pessoas com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ==================================================
@@ -45203,7 +45203,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 7 | Nota de Corte: 560.85
 	Candidatos filhos de empregados rurais ou filhos de famílias pronafianas (famílias beneficiárias do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF) ou filhos de Assentados da Reforma Agrária:
 		Vagas: 2 | Nota de Corte: 550.80
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 490.76
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: 447.89
@@ -45225,7 +45225,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 512.93
 	Candidatos filhos de empregados rurais ou filhos de famílias pronafianas (famílias beneficiárias do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF) ou filhos de Assentados da Reforma Agrária:
 		Vagas: 2 | Nota de Corte: 495.87
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ==================================================
@@ -45246,7 +45246,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 504.91
 	RENDA + EP:
 		Vagas: 3 | Nota de Corte: 504.14
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ALIMENTOS, Tecnológico, Integral
@@ -45264,7 +45264,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 512.28
 	Candidatos filhos de empregados rurais ou filhos de famílias pronafianas (famílias beneficiárias do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF) ou filhos de Assentados da Reforma Agrária:
 		Vagas: 2 | Nota de Corte: 501.11
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 450.68
 
 EDUCAÇÃO FÍSICA, Licenciatura, Integral
@@ -45282,7 +45282,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 3 | Nota de Corte: 556.78
 	Candidatos filhos de empregados rurais ou filhos de famílias pronafianas (famílias beneficiárias do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF) ou filhos de Assentados da Reforma Agrária:
 		Vagas: 2 | Nota de Corte: 549.41
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 537.07
 
 MEDICINA VETERINÁRIA, Bacharelado, Integral
@@ -45300,7 +45300,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 632.71
 	PPI + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 631.36
-	Pessoas com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 614.71
 
 ==================================================
@@ -84543,7 +84543,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 18 | Nota de Corte: 590.45
 	PPI + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 583.71
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 2 | Nota de Corte: 555.91
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 458.67
@@ -84565,7 +84565,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 1 | Nota de Corte: 531.96
 	PPI + EP:
 		Vagas: 2 | Nota de Corte: 518.16
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: 438.25
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -84583,7 +84583,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 7 | Nota de Corte: 528.04
 	PPI + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 513.42
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: 424.01
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -84603,7 +84603,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 5 | Nota de Corte: 572.21
 	PPI + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 554.73
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ARTES VISUAIS, Licenciatura, Integral
@@ -84619,7 +84619,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 1 | Nota de Corte: 570.28
 	PPI + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 566.93
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: 520.63
 
 BIBLIOTECONOMIA, Bacharelado, Matutino
@@ -84637,9 +84637,9 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 511.75
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 504.23
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 CIÊNCIAS BIOLÓGICAS, Bacharelado, Integral
@@ -84647,7 +84647,7 @@ Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, HUM=120.00, LIN=120.00, MAT=120.00, RED=200.00, TOTAL=.01
 	AC:
 		Vagas: 19 | Nota de Corte: 652.43
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: 640.70
 	EP:
 		Vagas: 7 | Nota de Corte: 640.22
@@ -84675,11 +84675,11 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 19 | Nota de Corte: 545.16
 	PPI + EP:
 		Vagas: 2 | Nota de Corte: 522.22
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 CIÊNCIAS CONTÁBEIS, Bacharelado, Noturno
@@ -84695,11 +84695,11 @@ Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 5 | Nota de Corte: 568.91
 	PPI + EP:
 		Vagas: 5 | Nota de Corte: 561.06
-	com deficiência - PROAAF:
-		Vagas: 2 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 2 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
 
 CIÊNCIAS ECONÔMICAS, Bacharelado, Noturno
@@ -84715,11 +84715,11 @@ Pesos: NAT=1.00, HUM=2.00, LIN=1.00, MAT=3.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 5 | Nota de Corte: 564.32
 	PPI + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 563.98
-	com deficiência - PROAAF:
-		Vagas: 2 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 2 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
 
 DIREITO, Bacharelado, Matutino
@@ -84735,7 +84735,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 3 | Nota de Corte: 673.32
 	PPI + EP:
 		Vagas: 3 | Nota de Corte: 672.75
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: 655.31
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 591.04
@@ -84749,7 +84749,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 26 | Nota de Corte: 729.53
 	EP:
 		Vagas: 10 | Nota de Corte: 713.89
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: 692.12
 	PPI + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 689.47
@@ -84775,9 +84775,9 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 569.96
 	PPI + EP:
 		Vagas: 2 | Nota de Corte: 529.74
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ENGENHARIA BIOQUÍMICA, Bacharelado, Integral
@@ -84795,9 +84795,9 @@ Pesos: NAT=3.00, HUM=1.00, LIN=1.00, MAT=3.00, RED=2.00 | Mínimo: NAT=120.00, H
 		Vagas: 3 | Nota de Corte: 593.66
 	PCD + EP:
 		Vagas: 1 | Nota de Corte: 495.32
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ENGENHARIA CIVIL, Bacharelado, Integral
@@ -84815,7 +84815,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=120.00, H
 		Vagas: 4 | Nota de Corte: 588.10
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 516.93
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 2 | Nota de Corte: 449.08
 	PCD + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -84833,7 +84833,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=120.00, H
 		Vagas: 1 | Nota de Corte: 572.79
 	PPI + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 534.29
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ENGENHARIA CIVIL EMPRESARIAL, Bacharelado, Noturno
@@ -84851,7 +84851,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 567.82
 	PPI + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 565.93
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: 495.13
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -84869,7 +84869,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=3.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 536.76
 	PPI + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 532.62
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: 496.51
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -84891,9 +84891,9 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=3.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 7 | Nota de Corte: 583.26
 	PCD + EP:
 		Vagas: 1 | Nota de Corte: 492.45
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ENGENHARIA DE COMPUTAÇÃO, Bacharelado, Integral
@@ -84909,11 +84909,11 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=120.00, H
 		Vagas: 9 | Nota de Corte: 611.76
 	PPI + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 562.30
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ENGENHARIA MECÂNICA, Bacharelado, Integral
@@ -84931,10 +84931,10 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=120.00, H
 		Vagas: 4 | Nota de Corte: 547.49
 	PCD + EP:
 		Vagas: 1 | Nota de Corte: 421.57
-	com deficiência - PROAAF:
-		Vagas: 2 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
+	PCD:
+		Vagas: 2 | Nota de Corte: .00
 
 ENGENHARIA MECÂNICA EMPRESARIAL, Bacharelado, Noturno
 Total de Vagas: 50
@@ -84949,7 +84949,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=120.00, H
 		Vagas: 3 | Nota de Corte: 563.24
 	PPI + EP:
 		Vagas: 2 | Nota de Corte: 556.64
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: 526.58
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -84965,7 +84965,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=120.00, H
 		Vagas: 5 | Nota de Corte: 641.16
 	PPI + EP:
 		Vagas: 1 | Nota de Corte: 640.11
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: 639.51
 	RENDA + EP:
 		Vagas: 5 | Nota de Corte: 621.89
@@ -84985,11 +84985,11 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=120.00, H
 		Vagas: 3 | Nota de Corte: 567.43
 	PPI + EP:
 		Vagas: 2 | Nota de Corte: 524.18
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 FÍSICA, Bacharelado, Integral
@@ -85003,13 +85003,13 @@ Pesos: NAT=3.00, HUM=1.00, LIN=1.00, MAT=3.00, RED=2.00 | Mínimo: NAT=120.00, H
 		Vagas: 7 | Nota de Corte: 495.90
 	PPI + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 482.48
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + EP:
 		Vagas: 2 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 FÍSICA, Licenciatura, Integral
@@ -85027,9 +85027,9 @@ Pesos: NAT=3.00, HUM=1.00, LIN=1.00, MAT=3.00, RED=2.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 441.33
 	PPI + EP:
 		Vagas: 2 | Nota de Corte: 405.94
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 GEOGRAFIA, Bacharelado, Noturno
@@ -85045,9 +85045,9 @@ Pesos: NAT=2.00, HUM=3.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 508.80
 	PPI + EP:
 		Vagas: 2 | Nota de Corte: 500.89
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 GEOGRAFIA, Licenciatura, Noturno
@@ -85063,9 +85063,9 @@ Pesos: NAT=2.00, HUM=3.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=120.00, H
 		Vagas: 5 | Nota de Corte: 506.55
 	PPI + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 446.75
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 GESTÃO AMBIENTAL, Tecnológico, Integral
@@ -85083,7 +85083,7 @@ Pesos: NAT=3.00, HUM=2.00, LIN=1.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 510.44
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 449.97
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 HISTÓRIA, Bacharelado, Vespertino
@@ -85101,9 +85101,9 @@ Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 535.68
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 477.12
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 HISTÓRIA, Licenciatura, Vespertino
@@ -85121,9 +85121,9 @@ Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 550.66
 	PPI + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 536.40
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 LETRAS - LÍNGUA PORTUGUESA, Licenciatura, Noturno
@@ -85139,11 +85139,11 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 528.99
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 526.57
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 LETRAS - PORTUGUÊS E ESPANHOL, Licenciatura, Matutino
@@ -85155,7 +85155,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 1 | Nota de Corte: 532.51
 	RENDA + EP:
 		Vagas: 5 | Nota de Corte: 528.39
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: 527.04
 	EP:
 		Vagas: 5 | Nota de Corte: 526.36
@@ -85175,7 +85175,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 528.32
 	RENDA + EP:
 		Vagas: 5 | Nota de Corte: 524.50
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 LETRAS - PORTUGUÊS E FRANCÊS, Licenciatura, Noturno
@@ -85189,9 +85189,9 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 5 | Nota de Corte: 555.16
 	PPI + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 537.19
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 LETRAS - PORTUGUÊS E INGLÊS, Licenciatura, Matutino
@@ -85207,7 +85207,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 577.53
 	RENDA + EP:
 		Vagas: 5 | Nota de Corte: 567.03
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 MATEMÁTICA, Licenciatura, Noturno
@@ -85223,11 +85223,11 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=3.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 7 | Nota de Corte: 511.14
 	PPI + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 465.94
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 MATEMÁTICA APLICADA, Bacharelado, Integral
@@ -85245,9 +85245,9 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=3.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 7 | Nota de Corte: 476.88
 	PPI + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 460.94
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 OCEANOLOGIA, Bacharelado, Integral
@@ -85257,7 +85257,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 19 | Nota de Corte: 638.56
 	EP:
 		Vagas: 7 | Nota de Corte: 601.04
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: 595.73
 	RENDA + EP:
 		Vagas: 7 | Nota de Corte: 587.39
@@ -85283,11 +85283,11 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 8 | Nota de Corte: 536.20
 	PPI + EP:
 		Vagas: 2 | Nota de Corte: 483.95
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 PEDAGOGIA, Licenciatura, Noturno
@@ -85303,7 +85303,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 526.08
 	PPI + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 522.46
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: 455.06
 	PCD + EP:
 		Vagas: 1 | Nota de Corte: 429.35
@@ -85321,7 +85321,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 6 | Nota de Corte: 700.65
 	PPI + EP:
 		Vagas: 2 | Nota de Corte: 678.41
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: 663.69
 	PPI + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 656.78
@@ -85343,11 +85343,11 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 520.96
 	PPI + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 493.88
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 QUÍMICA, Licenciatura, Integral
@@ -85363,7 +85363,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 5 | Nota de Corte: 476.86
 	PPI + EP:
 		Vagas: 1 | Nota de Corte: 474.78
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 SISTEMAS DE INFORMAÇÃO, Bacharelado, Integral
@@ -85379,7 +85379,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=3.00, MAT=3.00, RED=2.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 552.16
 	PPI + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 541.68
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: 442.77
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -85399,7 +85399,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 1 | Nota de Corte: 513.99
 	EP:
 		Vagas: 5 | Nota de Corte: 512.53
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ==================================================
@@ -85416,7 +85416,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 5 | Nota de Corte: 689.46
 	PPI + EP:
 		Vagas: 2 | Nota de Corte: 688.83
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: 676.64
 	RENDA + EP:
 		Vagas: 5 | Nota de Corte: 670.50
@@ -85430,7 +85430,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 35 | Nota de Corte: 806.46
 	EP:
 		Vagas: 14 | Nota de Corte: 797.12
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 2 | Nota de Corte: 786.25
 	RENDA + EP:
 		Vagas: 14 | Nota de Corte: 779.35
@@ -85461,7 +85461,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 575.95
 	PCD + EP:
 		Vagas: 1 | Nota de Corte: 565.74
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: 563.98
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -85471,7 +85471,7 @@ Total de Vagas: 45
 Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, HUM=120.00, LIN=120.00, MAT=120.00, RED=200.00, TOTAL=.01
 	PPI + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 561.75
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: 531.57
 	AC:
 		Vagas: 21 | Nota de Corte: 530.91
@@ -85501,9 +85501,9 @@ Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 9 | Nota de Corte: 450.58
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 421.06
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 RELAÇÕES INTERNACIONAIS, Bacharelado, Integral
@@ -85519,11 +85519,11 @@ Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 9 | Nota de Corte: 631.63
 	PPI + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 626.25
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 TURISMO, Bacharelado, Noturno
@@ -85541,7 +85541,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 465.54
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 399.64
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ==================================================
@@ -85562,7 +85562,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 3 | Nota de Corte: 566.28
 	PCD + EP:
 		Vagas: 1 | Nota de Corte: 518.28
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: 395.16
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 380.68
@@ -85580,12 +85580,12 @@ Pesos: NAT=3.00, HUM=1.00, LIN=1.00, MAT=3.00, RED=2.00 | Mínimo: NAT=120.00, H
 		Vagas: 11 | Nota de Corte: 445.19
 	PPI + EP:
 		Vagas: 3 | Nota de Corte: 442.40
-	com deficiência - PROAAF:
-		Vagas: 2 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
 		Vagas: 1 | Nota de Corte: .00
+	PCD:
+		Vagas: 2 | Nota de Corte: .00
 
 ENGENHARIA AGROINDUSTRIAL AGROQUÍMICA, Bacharelado, Integral
 Total de Vagas: 50
@@ -85600,11 +85600,11 @@ Pesos: NAT=3.00, HUM=1.00, LIN=1.00, MAT=3.00, RED=2.00 | Mínimo: NAT=120.00, H
 		Vagas: 3 | Nota de Corte: 518.81
 	PPI + EP:
 		Vagas: 2 | Nota de Corte: 487.92
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ENGENHARIA AGROINDUSTRIAL INDÚSTRIAS ALIMENTÍCIAS, Bacharelado, Integral
@@ -85624,7 +85624,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 1 | Nota de Corte: 511.30
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 449.30
-	com deficiência - PROAAF:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ENGENHARIA DE PRODUÇÃO, Bacharelado, Integral
@@ -85640,11 +85640,11 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 563.37
 	PPI + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 542.17
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ==================================================
@@ -85665,9 +85665,9 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 463.04
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 448.26
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 EDUCAÇÃO DO CAMPO, Licenciatura, Integral
@@ -85681,9 +85681,9 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 494.06
 	PPI + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 425.59
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 GESTÃO AMBIENTAL, Tecnológico, Integral
@@ -85699,9 +85699,9 @@ Pesos: NAT=3.00, HUM=2.00, LIN=1.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 432.84
 	EP:
 		Vagas: 5 | Nota de Corte: 421.96
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 GESTÃO DE COOPERATIVAS, Tecnológico, Noturno
@@ -85717,11 +85717,11 @@ Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 9 | Nota de Corte: 452.70
 	PPI + EP:
 		Vagas: 2 | Nota de Corte: 450.65
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 LETRAS - PORTUGUÊS, Licenciatura, Noturno
@@ -85735,13 +85735,13 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=120.00, H
 		Vagas: 2 | Nota de Corte: 487.00
 	EP:
 		Vagas: 7 | Nota de Corte: 485.38
-	com deficiência - PROAAF:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + EP:
 		Vagas: 2 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ==================================================
