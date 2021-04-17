@@ -143,15 +143,16 @@ modNomeReduzido = {
 "transexuais, travestis e transgêneros": "TRANS"
 }
 
+modNomeReduzido = {k.lower(): v for k, v in modNomeReduzido.items()}
+
 class Modalidade:
     def __init__(self, m):
         self.modNome, self.vagas, self.nota, self.bonus, self.dataNota = m
 
         # Reduces modality names based on the modNomeReduzido dict
-        for k, v in modNomeReduzido.items():
-            if self.modNome.lower() == k.lower():
-                self.modNome = v
-                break
+        modNomeKey = self.modNome.lower()
+        if modNomeKey in modNomeReduzido:
+            self.modNome = modNomeReduzido[modNomeKey]
 
     def __str__(self):
         s = [
